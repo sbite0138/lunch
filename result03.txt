@@ -1,0 +1,1 @@
+[[Decimal('2.0'), Decimal('1.0'), Decimal('7.0')], [['オクラの巣ごもりたまご(Soft-boiled egg with chopped okra)', 'ポテト＆コーンサラダ（Potato and corn salad）', '（大）釜玉うどん（(Large size)Udon noodles with poached egg_ green onion_ nori and tenkasu）']]]
